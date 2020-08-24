@@ -15,7 +15,6 @@ Only need to be cloned and executed.
 
 ## Built With
 
-Backend
 * [Java](https://www.java.com/es/) - Programming language
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [JUnit](https://junit.org/junit5/) - GUI widget toolkit for Java 
